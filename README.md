@@ -2,8 +2,6 @@
 
 This repository contains solutions to three problem sets from a Reinforcement Learning course. Each solution is detailed in a Jupyter notebook within the `/solutions/` folder. Below is a summary of the problem sets and the concepts applied and learned through their completion.
 
-Each notebook in the `/solutions/` folder provides a detailed implementation, analysis, and discussion of these concepts, showcasing the application of Reinforcement Learning theories to practical problems.
-
 ---
 
 ## Problem Set 1: Dynamic Programming
@@ -42,3 +40,5 @@ The final problem set investigates the Soft Policy Iteration algorithm, focusing
 - Analysis of the effects of different learning rate parameters on the algorithm's performance
 - Comparison of "hard" and "soft" policy iteration methods
 
+---
+Each notebook in the `/solutions/` folder provides a detailed implementation, analysis, and discussion of these concepts, showcasing the application of Reinforcement Learning theories to practical problems.
