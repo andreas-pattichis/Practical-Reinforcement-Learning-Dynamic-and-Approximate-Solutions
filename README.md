@@ -1,4 +1,4 @@
-# Reinforcement Learning Coursework Solutions
+# Practical Reinforcement Learning: Dynamic and Approximate Solutions
 
 This repository contains solutions to three problem sets from the Reinforcement Learning course. Each solution is detailed in a Jupyter notebook within the `/solutions/` folder. Below is a summary of the problem sets and the concepts applied and learned through their completion.
 
